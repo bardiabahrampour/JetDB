@@ -1,0 +1,10 @@
+JetDB Database System:
+
+	Core: 
+		the heart of the program
+	Client:
+		the software that manages the database
+
+how it works:
+
+	the core receives events with a message code locked to an enum and then gets proccessed
